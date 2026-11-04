@@ -1,0 +1,6 @@
+{
+  "name": "TKA Biologi 2026 – Belajar Cerdas Bersama Miss Mega",
+  "description": "Aplikasi interaktif persiapan TKA Biologi 2026 SMA/MA dengan 30 soal HOTS berstimulus gambar ilmiah, bimbingan suara narator Miss Mega (TTS), pembahasan komprehensif, dan cara cepat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
